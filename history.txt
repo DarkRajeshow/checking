@@ -25,3 +25,4 @@ Commit for 2024-01-15 at 14:29 - refactored code
 Commit for 2024-01-15 at 17:9 - performance improvements
 Commit for 2024-01-15 at 13:17 - updated dependencies
 Commit for 2024-01-16 at 17:17 - fixed bug
+Commit for 2024-01-17 at 12:53 - refactored code
