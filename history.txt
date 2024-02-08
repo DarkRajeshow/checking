@@ -57,3 +57,4 @@ Commit for 2024-02-03 at 16:57 - updated documentation
 Commit for 2024-02-07 at 18:12 - added new feature
 Commit for 2024-02-07 at 9:54 - improved styling
 Commit for 2024-02-07 at 10:14 - updated documentation
+Commit for 2024-02-08 at 9:10 - minor fixes
