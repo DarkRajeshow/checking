@@ -75,3 +75,4 @@ Commit for 2024-02-13 at 21:54 - minor fixes
 Commit for 2024-02-15 at 17:5 - fixed bug
 Commit for 2024-02-15 at 14:49 - improved user experience
 Commit for 2024-02-15 at 17:36 - improved styling
+Commit for 2024-02-16 at 14:26 - updated documentation
