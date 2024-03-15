@@ -118,3 +118,4 @@ Commit for 2024-03-12 at 15:25 - added new feature
 Commit for 2024-03-12 at 12:33 - improved user experience
 Commit for 2024-03-14 at 19:41 - added new feature
 Commit for 2024-03-14 at 9:11 - refactored code
+Commit for 2024-03-15 at 20:3 - refactored code
