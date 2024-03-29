@@ -131,3 +131,4 @@ Commit for 2024-03-26 at 20:55 - code cleanup
 Commit for 2024-03-28 at 9:29 - improved user experience
 Commit for 2024-03-28 at 17:59 - code cleanup
 Commit for 2024-03-29 at 13:52 - improved user experience
+Commit for 2024-03-29 at 13:6 - improved styling
