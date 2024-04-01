@@ -136,3 +136,4 @@ Commit for 2024-03-29 at 13:24 - improved user experience
 Commit for 2024-03-30 at 11:44 - improved styling
 Commit for 2024-03-30 at 18:13 - added new feature
 Commit for 2024-03-30 at 21:43 - performance improvements
+Commit for 2024-04-01 at 9:58 - added new feature
