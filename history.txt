@@ -165,3 +165,4 @@ Commit for 2024-04-17 at 12:39 - refactored code
 Commit for 2024-04-17 at 10:52 - refactored code
 Commit for 2024-04-18 at 19:42 - updated dependencies
 Commit for 2024-04-18 at 19:50 - minor fixes
+Commit for 2024-04-18 at 13:4 - improved styling
