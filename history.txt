@@ -168,3 +168,4 @@ Commit for 2024-04-18 at 19:50 - minor fixes
 Commit for 2024-04-18 at 13:4 - improved styling
 Commit for 2024-04-18 at 19:25 - improved styling
 Commit for 2024-04-20 at 17:17 - fixed bug
+Commit for 2024-04-22 at 21:57 - updated documentation
