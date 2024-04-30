@@ -182,3 +182,4 @@ Commit for 2024-04-29 at 11:32 - refactored code
 Commit for 2024-04-30 at 15:9 - code cleanup
 Commit for 2024-04-30 at 13:11 - performance improvements
 Commit for 2024-04-30 at 17:24 - improved styling
+Commit for 2024-04-30 at 15:40 - performance improvements
