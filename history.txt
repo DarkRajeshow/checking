@@ -197,3 +197,4 @@ Commit for 2024-05-06 at 9:49 - added new feature
 Commit for 2024-05-08 at 17:38 - refactored code
 Commit for 2024-05-09 at 18:3 - refactored code
 Commit for 2024-05-09 at 15:56 - added new feature
+Commit for 2024-05-09 at 16:18 - improved user experience
