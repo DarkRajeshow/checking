@@ -199,3 +199,4 @@ Commit for 2024-05-09 at 18:3 - refactored code
 Commit for 2024-05-09 at 15:56 - added new feature
 Commit for 2024-05-09 at 16:18 - improved user experience
 Commit for 2024-05-09 at 18:33 - updated documentation
+Commit for 2024-05-11 at 20:15 - improved user experience
