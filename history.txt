@@ -216,3 +216,4 @@ Commit for 2024-05-21 at 12:22 - refactored code
 Commit for 2024-05-21 at 9:28 - added new feature
 Commit for 2024-05-21 at 14:58 - refactored code
 Commit for 2024-05-23 at 11:10 - updated dependencies
+Commit for 2024-05-23 at 15:29 - code cleanup
