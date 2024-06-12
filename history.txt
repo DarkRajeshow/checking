@@ -246,3 +246,4 @@ Commit for 2024-06-08 at 20:42 - fixed bug
 Commit for 2024-06-10 at 20:47 - fixed bug
 Commit for 2024-06-11 at 12:47 - fixed bug
 Commit for 2024-06-12 at 14:4 - minor fixes
+Commit for 2024-06-12 at 11:47 - improved styling
