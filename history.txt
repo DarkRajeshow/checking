@@ -250,3 +250,4 @@ Commit for 2024-06-12 at 11:47 - improved styling
 Commit for 2024-06-15 at 18:58 - updated dependencies
 Commit for 2024-06-17 at 20:25 - minor fixes
 Commit for 2024-06-18 at 9:14 - refactored code
+Commit for 2024-06-18 at 19:21 - fixed bug
