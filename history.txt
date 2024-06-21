@@ -255,3 +255,4 @@ Commit for 2024-06-18 at 16:47 - added new feature
 Commit for 2024-06-18 at 20:46 - fixed bug
 Commit for 2024-06-20 at 13:19 - improved user experience
 Commit for 2024-06-20 at 21:37 - fixed bug
+Commit for 2024-06-21 at 17:21 - updated documentation
