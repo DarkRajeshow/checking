@@ -277,3 +277,4 @@ Commit for 2024-07-05 at 16:53 - updated documentation
 Commit for 2024-07-05 at 22:49 - updated dependencies
 Commit for 2024-07-08 at 20:2 - improved styling
 Commit for 2024-07-08 at 10:18 - improved styling
+Commit for 2024-07-08 at 15:22 - minor fixes
