@@ -275,3 +275,4 @@ Commit for 2024-07-04 at 14:23 - updated dependencies
 Commit for 2024-07-05 at 18:16 - fixed bug
 Commit for 2024-07-05 at 16:53 - updated documentation
 Commit for 2024-07-05 at 22:49 - updated dependencies
+Commit for 2024-07-08 at 20:2 - improved styling
