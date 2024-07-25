@@ -303,3 +303,4 @@ Commit for 2024-07-22 at 17:3 - minor fixes
 Commit for 2024-07-23 at 18:31 - improved styling
 Commit for 2024-07-25 at 22:48 - updated dependencies
 Commit for 2024-07-25 at 21:51 - refactored code
+Commit for 2024-07-25 at 17:37 - improved user experience
