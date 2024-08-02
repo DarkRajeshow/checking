@@ -313,3 +313,4 @@ Commit for 2024-07-29 at 20:28 - fixed bug
 Commit for 2024-07-31 at 18:47 - fixed bug
 Commit for 2024-08-01 at 17:42 - updated documentation
 Commit for 2024-08-01 at 18:29 - improved styling
+Commit for 2024-08-02 at 20:29 - code cleanup
