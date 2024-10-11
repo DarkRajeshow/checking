@@ -416,3 +416,4 @@ Commit for 2024-10-08 at 9:51 - improved user experience
 Commit for 2024-10-08 at 20:33 - fixed bug
 Commit for 2024-10-10 at 16:38 - minor fixes
 Commit for 2024-10-10 at 11:0 - minor fixes
+Commit for 2024-10-11 at 11:33 - refactored code
