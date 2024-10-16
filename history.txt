@@ -419,3 +419,4 @@ Commit for 2024-10-10 at 11:0 - minor fixes
 Commit for 2024-10-11 at 11:33 - refactored code
 Commit for 2024-10-12 at 16:31 - added new feature
 Commit for 2024-10-16 at 17:22 - improved styling
+Commit for 2024-10-16 at 18:40 - updated documentation
