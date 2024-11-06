@@ -447,3 +447,4 @@ Commit for 2024-11-04 at 20:26 - added new feature
 Commit for 2024-11-05 at 22:30 - refactored code
 Commit for 2024-11-05 at 16:20 - refactored code
 Commit for 2024-11-06 at 14:55 - added new feature
+Commit for 2024-11-06 at 17:7 - minor fixes
