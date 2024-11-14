@@ -461,3 +461,4 @@ Commit for 2024-11-11 at 18:35 - improved user experience
 Commit for 2024-11-13 at 13:41 - improved styling
 Commit for 2024-11-13 at 19:0 - fixed bug
 Commit for 2024-11-14 at 22:32 - performance improvements
+Commit for 2024-11-14 at 9:12 - updated documentation
