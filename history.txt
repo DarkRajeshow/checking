@@ -478,3 +478,4 @@ Commit for 2024-11-26 at 11:25 - improved user experience
 Commit for 2024-11-26 at 12:22 - updated documentation
 Commit for 2024-11-26 at 10:7 - improved styling
 Commit for 2024-11-27 at 21:4 - improved user experience
+Commit for 2024-11-27 at 22:1 - refactored code
