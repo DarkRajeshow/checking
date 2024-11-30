@@ -482,3 +482,4 @@ Commit for 2024-11-27 at 22:1 - refactored code
 Commit for 2024-11-27 at 10:42 - refactored code
 Commit for 2024-11-30 at 12:40 - minor fixes
 Commit for 2024-11-30 at 15:27 - updated documentation
+Commit for 2024-11-30 at 20:30 - code cleanup
