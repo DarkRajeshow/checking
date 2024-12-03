@@ -485,3 +485,4 @@ Commit for 2024-11-30 at 15:27 - updated documentation
 Commit for 2024-11-30 at 20:30 - code cleanup
 Commit for 2024-11-30 at 14:57 - updated documentation
 Commit for 2024-12-03 at 17:40 - improved styling
+Commit for 2024-12-03 at 18:35 - refactored code
