@@ -488,3 +488,4 @@ Commit for 2024-12-03 at 17:40 - improved styling
 Commit for 2024-12-03 at 18:35 - refactored code
 Commit for 2024-12-03 at 12:19 - updated documentation
 Commit for 2024-12-04 at 22:55 - fixed bug
+Commit for 2024-12-04 at 18:9 - improved styling
