@@ -495,3 +495,4 @@ Commit for 2024-12-05 at 13:19 - updated documentation
 Commit for 2024-12-05 at 17:41 - added new feature
 Commit for 2024-12-05 at 9:38 - updated dependencies
 Commit for 2024-12-06 at 14:32 - updated documentation
+Commit for 2024-12-06 at 20:42 - code cleanup
