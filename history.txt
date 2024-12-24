@@ -514,3 +514,4 @@ Commit for 2024-12-19 at 16:45 - updated documentation
 Commit for 2024-12-20 at 13:42 - refactored code
 Commit for 2024-12-20 at 9:0 - updated dependencies
 Commit for 2024-12-24 at 13:3 - refactored code
+Commit for 2024-12-24 at 20:14 - fixed bug
