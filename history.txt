@@ -515,3 +515,4 @@ Commit for 2024-12-20 at 13:42 - refactored code
 Commit for 2024-12-20 at 9:0 - updated dependencies
 Commit for 2024-12-24 at 13:3 - refactored code
 Commit for 2024-12-24 at 20:14 - fixed bug
+Commit for 2024-12-24 at 15:55 - minor fixes
