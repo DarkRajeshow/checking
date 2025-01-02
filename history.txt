@@ -524,3 +524,4 @@ Commit for 2024-12-26 at 17:35 - fixed bug
 Commit for 2024-12-27 at 17:43 - fixed bug
 Commit for 2024-12-27 at 14:35 - refactored code
 Commit for 2024-12-28 at 15:47 - code cleanup
+Commit for 2025-01-02 at 11:7 - updated documentation
