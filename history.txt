@@ -533,3 +533,4 @@ Commit for 2025-01-03 at 15:58 - performance improvements
 Commit for 2025-01-04 at 20:49 - refactored code
 Commit for 2025-01-04 at 9:57 - code cleanup
 Commit for 2025-01-07 at 14:48 - code cleanup
+Commit for 2025-01-07 at 19:28 - updated documentation
