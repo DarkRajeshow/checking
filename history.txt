@@ -537,3 +537,4 @@ Commit for 2025-01-07 at 19:28 - updated documentation
 Commit for 2025-01-07 at 22:1 - improved user experience
 Commit for 2025-01-07 at 18:53 - updated dependencies
 Commit for 2025-01-08 at 14:6 - improved user experience
+Commit for 2025-01-09 at 16:16 - refactored code
