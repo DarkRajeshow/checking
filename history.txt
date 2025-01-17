@@ -549,3 +549,4 @@ Commit for 2025-01-15 at 17:11 - updated dependencies
 Commit for 2025-01-15 at 18:5 - added new feature
 Commit for 2025-01-15 at 21:14 - minor fixes
 Commit for 2025-01-17 at 19:29 - refactored code
+Commit for 2025-01-17 at 15:38 - updated documentation
