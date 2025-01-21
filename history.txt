@@ -552,3 +552,4 @@ Commit for 2025-01-17 at 19:29 - refactored code
 Commit for 2025-01-17 at 15:38 - updated documentation
 Commit for 2025-01-20 at 19:10 - updated documentation
 Commit for 2025-01-21 at 16:4 - refactored code
+Commit for 2025-01-21 at 14:28 - code cleanup
