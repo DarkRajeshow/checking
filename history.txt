@@ -580,3 +580,4 @@ Commit for 2025-02-07 at 9:54 - minor fixes
 Commit for 2025-02-07 at 20:8 - added new feature
 Commit for 2025-02-10 at 18:23 - improved user experience
 Commit for 2025-02-10 at 10:20 - improved user experience
+Commit for 2025-02-11 at 22:29 - refactored code
