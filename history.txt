@@ -684,3 +684,4 @@ Commit for 2025-04-21 at 20:30 - refactored code
 Commit for 2025-04-23 at 12:15 - improved user experience
 Commit for 2025-04-23 at 14:39 - updated dependencies
 Commit for 2025-04-24 at 11:2 - refactored code
+Commit for 2025-04-24 at 22:37 - updated documentation
