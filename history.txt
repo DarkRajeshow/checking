@@ -693,3 +693,4 @@ Commit for 2025-04-26 at 18:6 - improved styling
 Commit for 2025-04-28 at 19:16 - improved styling
 Commit for 2025-04-29 at 22:11 - updated dependencies
 Commit for 2025-04-30 at 20:36 - updated dependencies
+Commit for 2025-04-30 at 22:55 - refactored code
