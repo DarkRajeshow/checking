@@ -710,3 +710,4 @@ Commit for 2025-05-06 at 10:53 - improved styling
 Commit for 2025-05-08 at 15:26 - refactored code
 Commit for 2025-05-09 at 13:9 - updated dependencies
 Commit for 2025-05-09 at 16:18 - improved user experience
+Commit for 2025-05-12 at 19:27 - refactored code
