@@ -723,3 +723,4 @@ Commit for 2025-05-16 at 9:35 - fixed bug
 Commit for 2025-05-19 at 20:24 - code cleanup
 Commit for 2025-05-20 at 16:6 - code cleanup
 Commit for 2025-05-20 at 15:34 - improved styling
+Commit for 2025-05-21 at 17:46 - improved styling
