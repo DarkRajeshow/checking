@@ -736,3 +736,4 @@ Commit for 2025-05-31 at 18:55 - updated dependencies
 Commit for 2025-05-31 at 22:15 - minor fixes
 Commit for 2025-06-02 at 14:10 - updated documentation
 Commit for 2025-06-02 at 15:30 - fixed bug
+Commit for 2025-06-02 at 19:36 - improved styling
