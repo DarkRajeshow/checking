@@ -807,3 +807,4 @@ Commit for 2025-07-17 at 12:25 - minor fixes
 Commit for 2025-07-17 at 15:16 - updated documentation
 Commit for 2025-07-18 at 9:12 - minor fixes
 Commit for 2025-07-18 at 9:49 - improved user experience
+Commit for 2025-07-18 at 20:53 - code cleanup
