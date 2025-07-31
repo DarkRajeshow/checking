@@ -829,3 +829,4 @@ Commit for 2025-07-30 at 14:3 - code cleanup
 Commit for 2025-07-30 at 17:24 - code cleanup
 Commit for 2025-07-30 at 19:31 - updated dependencies
 Commit for 2025-07-30 at 15:36 - updated dependencies
+Commit for 2025-07-31 at 12:35 - refactored code
