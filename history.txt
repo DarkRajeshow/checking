@@ -875,3 +875,4 @@ Commit for 2025-08-21 at 19:37 - improved styling
 Commit for 2025-08-25 at 13:44 - improved styling
 Commit for 2025-08-25 at 9:58 - updated dependencies
 Commit for 2025-08-26 at 20:6 - updated dependencies
+Commit for 2025-08-26 at 11:16 - updated documentation
