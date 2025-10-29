@@ -972,3 +972,4 @@ Commit for 2025-10-27 at 9:20 - added new feature
 Commit for 2025-10-27 at 20:0 - updated documentation
 Commit for 2025-10-28 at 15:42 - refactored code
 Commit for 2025-10-28 at 10:41 - improved styling
+Commit for 2025-10-29 at 16:58 - improved styling
