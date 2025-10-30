@@ -975,3 +975,4 @@ Commit for 2025-10-28 at 10:41 - improved styling
 Commit for 2025-10-29 at 16:58 - improved styling
 Commit for 2025-10-30 at 12:46 - fixed bug
 Commit for 2025-10-30 at 9:38 - updated documentation
+Commit for 2025-10-30 at 16:57 - code cleanup
