@@ -992,3 +992,4 @@ Commit for 2025-11-10 at 15:56 - minor fixes
 Commit for 2025-11-10 at 14:17 - improved user experience
 Commit for 2025-11-10 at 17:36 - performance improvements
 Commit for 2025-11-13 at 20:17 - improved user experience
+Commit for 2025-11-17 at 15:28 - code cleanup
