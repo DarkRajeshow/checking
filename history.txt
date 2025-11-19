@@ -995,3 +995,4 @@ Commit for 2025-11-13 at 20:17 - improved user experience
 Commit for 2025-11-17 at 15:28 - code cleanup
 Commit for 2025-11-17 at 15:1 - updated dependencies
 Commit for 2025-11-17 at 22:18 - code cleanup
+Commit for 2025-11-19 at 10:37 - refactored code
