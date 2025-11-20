@@ -999,3 +999,4 @@ Commit for 2025-11-19 at 10:37 - refactored code
 Commit for 2025-11-19 at 18:4 - performance improvements
 Commit for 2025-11-19 at 18:58 - updated dependencies
 Commit for 2025-11-20 at 22:40 - updated dependencies
+Commit for 2025-11-20 at 16:34 - updated documentation
